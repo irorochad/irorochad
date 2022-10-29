@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iroro Chadere</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
-<p align="center">I turn ideas into a reality! I code not just to create web apps, but to solve problems. I take my coding to the next level by no just creating a website for you, but help you maintain and grow that website.</p>
+<p align="center">I turn ideas into reality! I code not just to create web apps, but to solve problems. I take my coding to the next level by no just creating a website for you, but help you maintain and grow that website.</p>
 
 <img align="right" alt="Animated coding image" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
