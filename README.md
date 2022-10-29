@@ -1,4 +1,3 @@
-[![MasterHead](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)](https://www.upwork.com/freelancers/~01e533ab08971816b0)
 <h1 align="center">Hi 👋, I'm Iroro Chadere</h1>
 <h3 align="center">A passionate full stack developer from Nigeria</h3>
 
@@ -38,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=irorochad&show_icons=true&locale=en&layout=compact" alt="irorochad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=irorochad&show_icons=true&locale=en" alt="irorochad" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=irorochad&" alt="irorochad" /></p>
