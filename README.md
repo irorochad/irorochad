@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/iroro_chad" target="blank"><img src="https://img.shields.io/twitter/follow/iroro_chad?logo=twitter&style=for-the-badge" alt="iroro_chad" /></a> </p>
 
-- 🔭 I’m currently working on a **personal crypto listing website**
+- 🔭 I’m currently working on a **Crypto Research App**
 
 - 🤝 I’m freelancer at [upwork](https://www.upwork.com/freelancers/~01e533ab08971816b0)
 
