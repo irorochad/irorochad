@@ -12,13 +12,13 @@
 
 - 🤝 I’m freelancer at [upwork](https://www.upwork.com/freelancers/~01e533ab08971816b0)
 
-- 🌱 I’m currently learning **Laravel 9, and improving my ReactJs skill**
+- 🌱 I’m currently learning **Go Lang and mastering react/next. Learning never stop.**
 
 - 👯 I’m looking to collaborate on **ReactJs, PHP, and laravel projects**
 
 - 😍 I'll love to learn **Ruby, and master AWS (cloud computing)**
 
-- 💬 Ask me about **js, ReactJs, php, laravel, api, wordpress**
+- 💬 Ask me about **js, ReactJs,NextJs, php, laravel, api, wordpress**
 
 - 📫 How to reach me **wisdomchadere@gmail.com**
 
