@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Iroro Chadere</h1>
-<h3 align="center">A passionate full stack developer from Nigeria</h3>
-<p align="center">I turn ideas into reality! I don't just code, I solve problems. I take my coding to the next level by no just creating a website for you, but help you maintain and grow that website.</p>
+<h3 align="center">A passionate Frontend developer | Technical Support | Techincal Writer</h3>
+<p align="center">I really love what I do - trust me!</p>
 
 <img align="right" alt="Animated coding image" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
@@ -10,15 +10,15 @@
 
 - 🔭 I’m currently working on a **Crypto Research App**
 
-- 🤝 I’m freelancer at [upwork](https://www.upwork.com/freelancers/~01e533ab08971816b0)
 
-- 🌱 I’m currently learning **Go Lang and mastering react/next. Learning never stop.**
 
-- 👯 I’m looking to collaborate on **ReactJs, PHP, and laravel projects**
+- 🌱 I’m currently learning **Scala programming lang and Trading. Learning never stop.**
 
-- 😍 I'll love to learn **Ruby, and master AWS (cloud computing)**
+- 👯 I’m looking to collaborate on **ReactJs projects**
 
-- 💬 Ask me about **js, ReactJs,NextJs, php, laravel, api, wordpress**
+- 😍 I'll love to master ** AWS (cloud computing)**
+
+- 💬 Ask me about **js, ReactJs,NextJs, Techincal writing, api,**
 
 - 📫 How to reach me **wisdomchadere@gmail.com**
 
