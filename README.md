@@ -2,7 +2,7 @@
 <h3 align="center">An Ambitious & Attention Detailed Product Engineer</h3>
 <p align="center">Ever ready to learn and grow!</p>
 
-<img align="right" alt="Animated coding image" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Animated coding image from [Dribble](https://dribbble.com/shots/3604186-Developer)" width="400" src="https://cdn.dribbble.com/users/1118376/screenshots/3604186/media/7747207a1ef35cbe3f79a6cdf03d863f.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=irorochad&label=Profile%20views&color=0e75b6&style=flat" alt="irorochad" /> </p>
 
