@@ -8,15 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/iroro_chad" target="blank"><img src="https://img.shields.io/twitter/follow/iroro_chad?logo=twitter&style=for-the-badge" alt="iroro_chad" /></a> </p>
 
-- 🔭 I’m currently working on a **Crypto Research App**
+- 🔭 I’m currently working on an **API Management Tool**
 
-
-
-- 🌱 I’m currently learning **Scala programming lang and Trading. Learning never stops.**
+- 🌱 I’m currently learning about **Database Optimizations.**
 
 - 👯 I’m looking to collaborate on **Really cool and interesting projects**
-
-- 😍 I'll love to master **AWS (cloud computing)**
 
 - 💬 Ask me about **Javascript, Frontend, Backend, APIS, Security**
 
